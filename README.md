@@ -1,3 +1,5 @@
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+
 # Exploración Power Apps
 
 Seminario introductorio para usuarios finales que muestra cómo crear y explorar aplicaciones con Power Apps, integrar Dataverse, Copilot y Power Platform, con requisitos mínimos y enfoque práctico.
@@ -44,8 +46,12 @@ Seminario introductorio para usuarios finales que muestra cómo crear y explorar
   - Descripción: Realizar una demostración aplicada para compartir y versionar una aplicación, asignar permisos, ejecutar pruebas básicas, monitorear su uso y considerar lineamientos de gobernanza.
   - Duración estimada: 10 min
 
-## Flujo de colaboración
+  ---
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+## 📬 **Contacto y más información**
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+---
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
